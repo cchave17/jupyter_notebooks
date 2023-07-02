@@ -1,0 +1,40 @@
+# .gitignore
+
+# Jupyter notebook files
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Other files
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.hist
+*.bak
+*.swp
+*.lock
+*.sqlite
